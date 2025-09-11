@@ -1,0 +1,24 @@
+#titulo {
+    color: firebrick;
+    text-align: center;
+    background-color: darkkhaki
+}
+
+#corpo {
+    background-color: antiquewhite;
+}
+
+.Promocao {
+    font-family: Impact, Haettenschweiler, 'Arial Bold', sans-serif;
+    font-size: larger;
+    font-style: italic;
+    background-color: sandybrown;
+    color: rebeccapurple;
+    text-align: center ;
+}
+.nova{
+    color: rgb(255, 255, 255);
+}
+#main{
+    text-align: center;
+}
